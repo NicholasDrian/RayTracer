@@ -1,0 +1,7 @@
+-add reflection blurriness
+-intersect ray with triangle
+-build a bounding box hierarchy
+-add postprocessing
+    -antialiasing
+    -lighting control
+-add gradual updates
